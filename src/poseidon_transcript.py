@@ -75,3 +75,6 @@ class CairoPoseidonTranscript:
     #             "    );\n"
     #         )
     #     return cairo_code
+
+    if __name__ == "__main__":
+        print("done")

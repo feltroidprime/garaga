@@ -80,4 +80,4 @@ class CairoPoseidonTranscript:
     if __name__ == "__main__":
         print("done")
         #hades_binding()
-        hades_binding.hades_permutation(["1", "2", "3"])
+        hades_binding.hades_permutation(["1", "2"])
